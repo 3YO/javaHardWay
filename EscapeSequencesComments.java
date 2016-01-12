@@ -16,6 +16,7 @@ public class EscapeSequencesComments
     System.out.println( "\\\\ \\\\\\ \\\\\\\\" ); // it takes 2 to make 1
     System.out.print( "I hope you understand \"escape sequences\" now.\n" );
     // and comments. :)
+
+    // Adding a block comment in the middle of the word println does NOT compile.
   }
-// Adding a block comment in the middle of the word println does NOT compile.
 }
