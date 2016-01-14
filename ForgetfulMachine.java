@@ -15,5 +15,8 @@ public class ForgetfulMachine {
 
     System.out.println( "Is there anything else you would like to tell me?" );
     keyboard.next();
+
+    // the 2nd question blows up when I typed "blowup".
+    // the 3rd question blows up when I typed "blowup".
   }
 }
