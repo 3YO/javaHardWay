@@ -27,11 +27,11 @@ public class BooleanExpressions {
     System.out.println();
 
     System.out.println( !(x < y) + " " + (x >= y) );
-		System.out.println( !(x <= y) + " " + (x > y) );
-		System.out.println( !(x == y) + " " + (x != y) );
-		System.out.println( !(x != y) + " " + (x == y) );
-		System.out.println( !(x > y) + " " + (x <= y) );
-		System.out.println( !(x >= y) + " " + (x < y) );
+    System.out.println( !(x <= y) + " " + (x > y) );
+    System.out.println( !(x == y) + " " + (x != y) );
+    System.out.println( !(x != y) + " " + (x == y) );
+    System.out.println( !(x > y) + " " + (x <= y) );
+    System.out.println( !(x >= y) + " " + (x < y) );
 
     // less than is <
     // less than or equal to is <=
